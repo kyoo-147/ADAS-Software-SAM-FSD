@@ -49,28 +49,37 @@ pip install -r requirements.txt
 # Để chạy chương trình nhận diện lane
 python3 X_Lane_Detect/x_lane_detect_oop.py
 
-# Để chạy chương trình nhận diện đơn trên máy tính thông thường, 6 loại biển báo, cấu trúc pt
+# Để chạy chương trình nhận diện đơn trên máy tính thông thường
+# 6 loại biển báo, cấu trúc pt
 python3 X_Traffic_Sign/x_detect_pt_com.py
 
-# Để chạy chương trình nhận diện đơn trên máy tính thông thường, 6 loại biển báo, cấu trúc onnx
+# Để chạy chương trình nhận diện đơn trên máy tính thông thường
+# 6 loại biển báo, cấu trúc onnx
 python3 X_Traffic_Sign/x_detect_onnx_com.py
 
-# Để chạy chương trình nhận diện đơn trên máy tính Raspberry đã khai báo kích các chân GPIO, 6 loại biển báo, cấu trúc pt
+# Để chạy chương trình nhận diện đơn trên máy tính Raspberry đã
+# khai báo kích các chân GPIO, 6 loại biển báo, cấu trúc pt
 python3 X_Traffic_Sign/x_detect_pt_rasp.py
 
-# Để chạy chương trình nhận diện đơn trên máy tính Raspberry đã khai báo kích các chân GPIO, 6 loại biển báo, cấu trúc onnx
+# Để chạy chương trình nhận diện đơn trên máy tính Raspberry đã
+# khai báo kích các chân GPIO, 6 loại biển báo, cấu trúc onnx
 python3 X_Traffic_Sign/x_detect_onnx_rasp.py
 
-# Để chạy chương trình nhận diện đơn trên máy tính Raspberry đã khai báo kích các chân GPIO, vật cản xe, cấu trúc pt
+# Để chạy chương trình nhận diện đơn trên máy tính Raspberry đã
+# khai báo kích các chân GPIO, vật cản xe, cấu trúc pt
 python3 X_Traffic_Sign/x_detect_car.py
 
-# Để chạy chương trình nhận diện song song trên máy tính Raspberry đã khai báo kích các chân GPIO, vật cản xe và 6 loại biển báo, cấu trúc pt
+# Để chạy chương trình nhận diện song song trên máy tính Raspberry
+# đã khai báo kích các chân GPIO, vật cản xe và 6 loại biển báo, cấu trúc pt
 python3 X_Traffic_Sign/x_multi_detect_pt.py
 
-# Để chạy chương trình nhận diện song song trên máy tính Raspberry đã khai báo kích các chân GPIO, vật cản xe và 6 loại biển báo, cấu trúc onnx
+# Để chạy chương trình nhận diện song song trên máy tính Raspberry
+# đã khai báo kích các chân GPIO, vật cản xe và 6 loại biển báo, cấu trúc onnx
 python3 X_Traffic_Sign/x_multi_detect_onnx.py
 
-# Để chạy chương trình nhận diện cảm biến máy tính Raspberry đã khai báo kích các chân GPIO, vật cản xe, bạn trước tiên cần phải khai báo các chân cắm và dữ liệu trước tiên để thực hiện đúng và chương trình hoạt động
+# Để chạy chương trình nhận diện cảm biến máy tính Raspberry
+# đã khai báo kích các chân GPIO, vật cản xe, bạn trước tiên cần phải
+# khai báo các chân cắm và dữ liệu trước tiên để thực hiện đúng và chương trình hoạt động
 python3 X_Traffic_Sign/x_sensor_obstacle.py
 ```
 
