@@ -14,7 +14,7 @@
 * [X_Logo](X_Logo): Thư mục chứa logo 
 * [X_Model](X_Model): Thư mục chứa các model biển báo được đào tạo
 * [X_Results](X_Results): Thư mục chứa kết quả trong quá trình xử lý thời gian thực
-* [X_Traffic_Sign](X_Traffic_Sign): Thư mục chứa chương trình nhận diện biển báo và điều khiển các chân I/O Raspberry
+* [X_Traffic_Sign](X_Traffic_Sign): Thư mục chứa hệ thống nhận diện biển báo và điều khiển các chân I/O Raspberry
 
 
 ## Setup
