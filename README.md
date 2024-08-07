@@ -95,6 +95,7 @@ python3 X_Traffic_Sign/x_sensor_obstacle.py
 <img src="X_Results/x_turn_right.png" alt="Alt text">
 
 # Giấy phép
+Liên hệ: HotLine: 0365646109 - Gmail: navinservicesnv000@gmail.com
 
 [MIT License](https://opensource.org/licenses/MIT).
 
